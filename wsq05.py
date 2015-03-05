@@ -1,3 +1,4 @@
+"""Efrain Duarte Lopez"""
 print ("What is the temperature in Fahrenheit? ")
 x= int(input())
 c=5*(x-32)/9
@@ -7,7 +8,3 @@ if c>=100:
     print ("be careful, you can burn")
 else:
     print("Water does not boil at this temperature (under typical conditions)")
-
-
-
-
